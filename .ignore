@@ -1,2 +1,2 @@
-data/
-data/*.jpg
+!data/
+data/*
