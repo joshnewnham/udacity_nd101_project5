@@ -10,5 +10,5 @@ lib64
 parts
 sdist
 var
-!data/
+data/
 data/*
